@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tharun Ravuru
 ======================================================================================================================================
-<h4>A Front-end developer | MERN Stack</h4>
+<h4>A Front-end developer | MERN Stack | JAMstack </h4>
 
-- 🔭 I’m currently working on a MERN Project
+- 🔭 I’m currently working on a JAMstack Project
 - 🌱 I’m currently learning Web 3.0
 - 👯 I’m looking to collaborate on PRs
 - 💬 Ask me about Technology 
