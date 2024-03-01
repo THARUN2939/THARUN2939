@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**THARUN2939/THARUN2939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tharun Ravuru
+======================================================================================================================================
+<h4>A Full-end developer | MERN Stack</h4>
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m currently learning Web 3.0
