@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharun Ravuru</h1>
-<h3 align="center">A passionate frontend developer |MERN Stack|JAMstack</h3>
+<h3 align="center">A passionate full stack developer |MERN Stack|JAMstack</h3>
 
 - 🔭 I’m currently working on **JAMstack Projects and MERN Stack**
 
