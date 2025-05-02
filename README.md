@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Technology**
 
-- 📫 How to reach me **tharunravuru19844@gmail.com**
+- 📫 How to reach me **tharunravuruofficial@gmail.com**
 
 - ⚡ Fun fact **I'm currently studying B. Tech Electronics And Communication**
 
