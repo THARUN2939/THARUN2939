@@ -70,10 +70,6 @@ I enjoy solving real-world problems through software, automation, and intelligen
 
 <img src="https://skillicons.dev/icons?i=java"/>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
 <img src="https://skillicons.dev/icons?i=js"/>
 
 <img src="https://skillicons.dev/icons?i=ts"/>
