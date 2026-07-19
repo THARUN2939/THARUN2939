@@ -37,7 +37,7 @@ I enjoy solving real-world problems through software, automation, and intelligen
 
 # 🚀 Professional Highlights
 
-- 💼 Associate Service Desk Analyst @ CSC
+- 💼 Software Analyst @ CSC
 - 🎓 B.Tech in Electronics & Communication Engineering
 - 📄 Author of **2 IEEE Conference Publications**
 - 🏆 Top 6 among 300+ teams in DevSoc24 Hackathon
