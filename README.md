@@ -341,11 +341,15 @@ Conference Publication
 
 # 🏢 Experience
 
-## Associate Service Desk Analyst
+## Software Analyst
 
-CSC
+CSC Global
 
 ---
+
+## Full Stack Developer Intern
+
+Namecheap Inc
 
 ## Embedded System Design Intern
 
