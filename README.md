@@ -27,7 +27,7 @@
 💻 Software Engineer passionate about building intelligent software across **AI, Machine Learning, Full Stack Development, Embedded Systems, Optical Communication and Cloud Technologies.**
 
 - 🎓 B.Tech (ECE) — VIT Vellore
-- 💼 Software Analyst @ CSC
+- 💼 Software Analyst @ CSC Global
 - 📄 Author of **2 IEEE Conference Publications**
 - 🏆 Top 6 / 300+ Teams — DevSoc24
 - 🌱 Currently learning **Cloud • DevOps • System Design • AI Agents**
